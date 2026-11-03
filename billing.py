@@ -1,3 +1,10 @@
+# Restaurant Billing system 
+# Problem Statement 41
+# Name : Anant Belchandan 
+# ERP : 02040
+# Section : BCA AI/ML,1-A
+
+
 def calculate_subtotal(order_list):
     return sum(item['amount'] for item in order_list)
 
